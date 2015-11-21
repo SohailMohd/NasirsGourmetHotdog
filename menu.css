@@ -1,0 +1,22 @@
+
+
+#food {
+  
+    background-color: lightgrey;
+ 
+}
+
+#beverages {    
+ 
+    border: 3px solid lightblue;
+}
+
+img {
+    width: 20%;
+    height: 20%;
+}
+
+.price {
+    margin-top: 2%;
+    border: 3px solid black;
+}

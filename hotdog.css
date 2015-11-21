@@ -1,0 +1,187 @@
+body {
+    font-family: 'Ubuntu', serif;
+    font-size: 17px;
+    //font-size: 1.5em;//used for dynamic pages ex. phones tablets
+    position: relative;
+}
+
+
+
+.title{
+    padding-top: 7%;
+    //margin-top: 3%;
+    margin-bottom: 3%;
+    font-size: 180%;
+    letter-spacing: 3px;  
+    text-align: center;
+}
+
+#logoImg {
+    float: left;
+    width: 20%;
+    margin-top: 2%;
+    //margin-left: 5%;
+}
+
+#home {
+    //background-color: #FF9999;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#specials {
+    //background-color: #FFFFCC;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#menu {
+    //background-color: #99FFCC;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#contact {
+    //background-color: #C2E0FF;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+
+.navbar-header {
+    width: 50%;
+    //float: left;
+    //margin-right: -10%;
+}
+
+
+#headerText {
+    margin-left: 3%;
+    margin-top: 3%;
+    font-style: italic;
+    width: 70%;
+}
+
+#toggleBtn {
+  margin-top: -10%;
+  float: right: 
+  //margin-left: 10%;
+  //width: 70%;
+}
+
+#navSection {
+    background-color: white;
+    opacity: 0.9;
+}
+
+#navBackground {
+    margin-top: 3%;
+}
+
+
+iframe {
+    width: 90%;
+    margin-left: 10%;
+}
+
+
+#collapse li a:hover  {
+    color: #cc6600;
+}
+
+#home_menuContent{
+    width: 85%;   
+    border: 2px solid black;
+    margin-left: 10%;
+}
+
+#home_menuContent li{
+    list-style: none;
+    margin-bottom: 2%;
+    
+}
+
+#home_menuContent p {
+    margin-left: 6%;
+}
+
+#puzzleDay {
+    //position: ;
+    margin-top: 5%;
+    
+}
+
+#foodShowcase {
+    margin-bottom: 5%;
+}
+
+#foodShowcase img {
+    margin-left: 3%;
+    width: 27%;
+    display: inline;
+}
+
+.homeMenu_price {
+    margin-left: 50%;
+    position: absolute;
+}
+
+.homeMenu_item {
+    border-bottom: 2px solid lightgrey;
+    width: 89%;
+    
+}
+
+#friesImg {
+    position: absolute;
+    margin-top: -3%;
+    margin-left: 3%;
+    z-index: 1;
+}
+
+.specialsImg {
+    width: 100%;
+}
+
+.listItems, .listItems2 {
+    margin-left: 5%;
+    width: 85%;
+}
+
+
+.listItems2 .item_price {
+    margin-right: -13%;
+}
+
+.menu_foodDescrip{
+    display: none;
+    font-style: italic;
+    color: grey;
+    border-top: 2px solid blue;
+    width: 130%;
+    
+}
+
+#polishSausage, #italianSausage, #beefSausage {
+    cursor: pointer;
+    
+}
+
+#polishSausage:hover, #italianSausage:hover, #beefSausage:hover {
+    background-color: lightblue !important;
+}
+
+
+.price_label {
+    font-style: bold;
+    
+}
+
+.item_price {
+    font-size: 120%;
+    
+}
+
+#contactContent {
+    margin-left: 10%;
+}

@@ -1,0 +1,39 @@
+
+
+.navbar-header {
+    width: 63%;
+    //float: left;
+    //margin-right: -10%;
+}
+
+#headerText {
+  display: none;
+    //  margin-left: 3%;
+//    margin-top: ;
+    //font-style: italic;
+    //width: 80%;
+}
+
+
+#logoImg {
+    float: left;
+    width: 23%;
+    margin-top: 2%;
+    //margin-left: 5%;
+}
+
+#toggleBtn {
+  margin-top: -13%;
+  float: right: 
+  //margin-left: 10%;
+  //width: 70%;
+}
+
+#navSection {
+    background-color: white;
+    opacity: 0.9;
+}
+
+#navBackground {
+    margin-top: 3%;
+}
